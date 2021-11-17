@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj": {}
+    "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj": {}
   },
   "projects": {
-    "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj": {
+    "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
+        "projectUniqueName": "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
         "projectName": "ST_LaboratoryWork3",
-        "projectPath": "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
+        "projectPath": "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
         "packagesPath": "C:\\Users\\markc_000\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\obj\\",
+        "outputPath": "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

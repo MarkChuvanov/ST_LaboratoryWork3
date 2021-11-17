@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PLVNwLOmbY+jtTNYLq9isYqrqgP8UY9CBx6aJsYlTgPmH+l/eMSS7lliFyj2lFEf0t+ElkVmOqEHacuZ3oTL1Q==",
+  "dgSpecHash": "T87D6nf3muQzHNG4NfqYEPGP5mwkQJBLFsc74UVsEQP5l4wsrxuuL/9gxFZgDxlg3pX+Nyb8nAqiB5D/lMgsVw==",
   "success": true,
-  "projectFilePath": "D:\\Документы\\Institute\\Local projects\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
+  "projectFilePath": "D:\\Institute\\GitHub repositories\\ST_LaboratoryWork3\\ST_LaboratoryWork3\\ST_LaboratoryWork3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\markc_000\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\markc_000\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

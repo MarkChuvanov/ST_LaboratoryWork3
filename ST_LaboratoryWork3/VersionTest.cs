@@ -74,5 +74,12 @@ namespace ST_LaboratoryWork3
 			Assert.IsTrue(new Version("1.0.0") != new Version("1.0.1"));
 			Assert.IsFalse(new Version("1.0.0") != new Version("1.0.0"));
 		}
+
+		[Test]
+		public void ToStringTest ()
+		{
+			Assert.AreEqual("1.0.0", new Version("1.0.0").ToString());
+			Assert.AreEqual("1.1.1-alpha", new Version("1.1.1-alpha").ToString());
+		}
 	}
 }
